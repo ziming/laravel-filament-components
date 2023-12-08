@@ -1,4 +1,4 @@
-![laravel-filament-components](https://github.com/ralphjsmit/laravel-filament-components/blob/main/docs/images/laravel-filament-components.jpg)
+![laravel-filament-components](https://raw.githubusercontent.com/ralphjsmit/laravel-filament-components/main/docs/images/laravel-filament-components.jpg)
 
 # A collection of reusable components for Filament.
 
